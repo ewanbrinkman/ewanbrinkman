@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ewan</h1>
 
-<!--
-**ewanbrinkman/ewanbrinkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second year computing science student at Simon Fraser University.
 
-Here are some ideas to get you started:
+<h1 align="center">Languages and Tools</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,nodejs,express,heroku,linux,bash,git" />
+  </a>
+</p>
+
+###
+
+<h1 align="center">Stats</h1>
+
+<div align="center">
+  <img height="150" alt="Stats graph" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ewanbrinkman"/>
+  <img height="150" alt="Languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ewanbrinkman"/>
+</div>
+
+###
