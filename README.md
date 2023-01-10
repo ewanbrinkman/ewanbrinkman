@@ -6,7 +6,7 @@ I'm a second year computing science student at Simon Fraser University.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,js,nodejs,express,heroku,linux,bash,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,js,nodejs,express,heroku,linux,bash,git&theme=light"/>
   </a>
 </p>
 
