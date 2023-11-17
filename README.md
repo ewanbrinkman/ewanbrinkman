@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ewan</h1>
 
-I'm a second year Computing Science student at Simon Fraser University.
+I'm a third year Computing Science student at Simon Fraser University.
 
 Check out some of my many projects:
 - Location guesser game website: [https://doyouknowthere.com/](https://www.doyouknowthere.com/)
