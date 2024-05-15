@@ -4,14 +4,14 @@ I'm a third year Computing Science student at Simon Fraser University.
 
 Check out some of my many projects:
 - Location guesser game website: [https://doyouknowthere.com/](https://www.doyouknowthere.com/)
-- SFU API Wrapper: [https://github.com/ewanbrinkman/sfu-api-wrapper](https://github.com/ewanbrinkman/sfu-api-wrapper)
+- SFU API Wrapper: [https://github.com/ewanbrinkman/sfu-course-api-wrapper](https://github.com/ewanbrinkman/sfu-course-api-wrapper)
 - Platformer game: [https://ewanbrinkman.github.io/blocker/](https://ewanbrinkman.github.io/blocker/) 
 
 <h1 align="center">Languages and Tools</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,express,c,cpp,py,java,heroku,linux,bash,git&theme=light&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,tailwind,nextjs,vercel,heroku,git,c,cpp,py,java,bash,linux&theme=light&perline=9"/>
   </a>
 </p>
 
